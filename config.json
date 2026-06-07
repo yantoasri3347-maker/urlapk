@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://IP_SERVER_ANDA:PORT",
+  "wsUrl": "ws://IP_SERVER_ANDA:PORT",
+  "version": "1.0.0",
+  "maintenace": false
+}
