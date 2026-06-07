@@ -1,6 +1,6 @@
 {
-  "baseUrl": "http://IP_SERVER_ANDA:PORT",
-  "wsUrl": "ws://IP_SERVER_ANDA:PORT",
+  "baseUrl": "http://githubaja.qoupayid.xyz:3527",
+  "wsUrl": "ws://githubaja.qoupayid.xyz:3527",
   "version": "1.0.0",
   "maintenace": false
 }
